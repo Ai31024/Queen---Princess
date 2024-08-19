@@ -4,7 +4,6 @@ A simple responsive web page that showcases images of girls with the ability to 
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
