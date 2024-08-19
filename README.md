@@ -12,10 +12,6 @@ A simple responsive web page that showcases images of girls with the ability to 
 - [File Structure](#file-structure)
 - [License](#license)
 
-## Demo
-
-[Insert a link to a live demo if available]
-
 ## Features
 
 - **Responsive Design:** Compatible with desktop, laptop, tablet, and smartphone displays.
@@ -75,7 +71,3 @@ queens-and-princesses/
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this `README.md` to better fit your project!
