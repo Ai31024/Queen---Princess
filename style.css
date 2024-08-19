@@ -1,0 +1,42 @@
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 400 to 900 */
+
+@media (max-width: 576px) {
+  #Main-body {
+    padding: 20px;
+  }
+  img {
+    width: 100%; /* Let images take full width on small screens */
+    border-radius: 10%; /* Adjust the border radius */
+  }
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+img {
+  width: 300px;
+  border-radius: 10%;
+}
+
+#Main-body {
+  background-color: white;
+  border-width: 10px;
+  border-radius: 5%;
+  border-color: gray;
+}
+
+.playfair-display-heading {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.playfair-display-body {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
