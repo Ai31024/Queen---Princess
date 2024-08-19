@@ -10,6 +10,7 @@ A simple responsive web page that showcases images of girls with the ability to 
 - [Usage](#usage)
 - [File Structure](#file-structure)
 - [License](#license)
+- [Pleass See](#P.S)
 
 ## Features
 
@@ -70,3 +71,7 @@ queens-and-princesses/
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+## P.S
+
+This README.md file was completely written by the help of ChatGPT on 19/08/2024 and this credit was writing by me (@ai31024).
