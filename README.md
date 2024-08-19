@@ -74,4 +74,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Please See
 
-This README.md file was completely written by the help of ChatGPT on 19/08/2024 and this credit was writing by me (@ai31024).
+This README.md file was completely written by the help of ChatGPT on 19/08/2024 and this credit was writing by me (@Ai31024).
