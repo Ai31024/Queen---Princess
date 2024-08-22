@@ -23,12 +23,12 @@ body {
 /* Main Container Styles */
 .container-main {
   background-color: white;
-  border: 10px solid gray;
-  border-radius: 5%;
+  border: 1px solid gray;
+  border-radius: 15px;
 }
 
 /* Heading Font Styles */
-.heading-primary {
+.heading-playfair {
   font-family: "Playfair Display", serif;
   font-optical-sizing: auto;
   font-weight: 900;
@@ -36,7 +36,7 @@ body {
 }
 
 /* Body Text Font Styles */
-.text-primary {
+.text-playfair {
   font-family: "Playfair Display", serif;
   font-optical-sizing: auto;
   font-weight: 500;
