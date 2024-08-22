@@ -1,40 +1,42 @@
-/* // <uniquifier>: Use a unique and descriptive class name
-// <weight>: Use a value from 400 to 900 */
-
+/* Responsive Styles for Mobile Screens */
 @media (max-width: 576px) {
-  #Main-body {
+  .container-main {
     padding: 20px;
   }
-  img {
-    width: 100%; /* Let images take full width on small screens */
+  .img-fluid {
+    width: 100%; /* Images take full width on small screens */
     border-radius: 10%; /* Adjust the border radius */
   }
 }
 
+/* Global Body Styles */
 body {
   background-color: whitesmoke;
 }
 
-img {
+/* Global Image Styles */
+.img-fluid {
   width: 300px;
   border-radius: 10%;
 }
 
-#Main-body {
+/* Main Container Styles */
+.container-main {
   background-color: white;
-  border-width: 10px;
+  border: 10px solid gray;
   border-radius: 5%;
-  border-color: gray;
 }
 
-.playfair-display-heading {
+/* Heading Font Styles */
+.heading-primary {
   font-family: "Playfair Display", serif;
   font-optical-sizing: auto;
   font-weight: 900;
   font-style: normal;
 }
 
-.playfair-display-body {
+/* Body Text Font Styles */
+.text-primary {
   font-family: "Playfair Display", serif;
   font-optical-sizing: auto;
   font-weight: 500;
