@@ -74,5 +74,5 @@ This open-source project is available under the [MIT License](LICENSE).
 
 ## Please See
 
-This README.md file was completely written with the help of ChatGPT on 19/08/2024 and this credit was written by me (@Ai31024).
+This README.md file was completely written with the help of ChatGPT on 19/08/2024 and this credit was written by me [Ai31024](https://github.com/Ai31024/).
 UPDATE: The code in HTML, CSS and JavaScript files is now standardised using ChatGPT's assistance.
