@@ -21,7 +21,7 @@ A simple responsive web page that showcases images of girls with the ability to 
 
 ## Technologies Used
 
-- **HTML5:** Markup language used to create the structure of the page.
+- **HTML5:** Markup language used to create the page's structure.
 - **CSS3:** Used for styling and layout.
 - **Bootstrap 5:** A CSS framework for responsive design.
 - **JavaScript:** Used for interactivity and DOM manipulation.
@@ -70,8 +70,9 @@ queens-and-princesses/
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This open-source project is available under the [MIT License](LICENSE).
 
 ## Please See
 
-This README.md file was completely written by the help of ChatGPT on 19/08/2024 and this credit was writing by me (@Ai31024).
+This README.md file was completely written with the help of ChatGPT on 19/08/2024 and this credit was written by me [(Ai31024)](https://github.com/Ai31024/).
+UPDATE: The code in HTML, CSS and JavaScript files is now standardised using ChatGPT's assistance.
