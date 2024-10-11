@@ -10,7 +10,7 @@ A simple responsive web page that showcases images of girls with the ability to 
 - [Usage](#usage)
 - [File Structure](#file-structure)
 - [License](#license)
-- [Please See](#Please-See)
+- [Please See](#please-see)
 
 ## Features
 
@@ -53,7 +53,7 @@ A simple responsive web page that showcases images of girls with the ability to 
 
 ## File Structure
 
-```
+```bash
 queens-and-princesses/
 ├── index.html         # The main HTML file
 ├── style.css          # Custom CSS file for styling
